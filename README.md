@@ -1,6 +1,6 @@
 # Compiler Lexical Analysis
    
-![compiler lexical analysis](Lexem.JPG?raw=true "compiler lexical analysis")
+![compiler lexical analysis](lexem.JPG?raw=true "compiler lexical analysis")
 
 ## Description
 
